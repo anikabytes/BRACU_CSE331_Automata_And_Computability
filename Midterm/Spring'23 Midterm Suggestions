@@ -1,0 +1,21 @@
+< Spring'23 Midterm Suggestions [MHB] >
+
+•	Here's a list of all the things we've covered.
+o	Alphabets, Strings, and Languages
+o	DFAs and Regular Languages
+o	The Regular Operations (Union, Concatenation, and Kleene star)
+o	Nondeterminism and NFAs
+o	Equivalence between NFAs and DFAs (Subset Construction)
+o	Closure under the Regular Operations
+o	Regular Expressions
+o	Equivalence between Regular Expressions and Finite Automata
+	Converting Regular Expressions to NFAs 
+	Converting DFAs to Regular Expressions
+o	The amount of material covered is equal to the first two-and-a-half lectures of the MIT Playlist. You might also find the recorded lectures from last semester and this playlist helpful.
+o	Additional Resources:
+	Quiz 1 (section 5, section 6, section 7)
+	Quiz 2 (section 5 (1, 2), section 6 (1, 2), section 7 (1, 2))
+	Past midterm questions (Spring 22, Summer 22,  Fall 22(1, 2)) (Note that the syllabus for the past midterms might have been different)
+o	 Assignment 1 instructions:
+	Solve the Quiz 1 problems for sections 5 and 6, turn your solutions into a single pdf file, and submit it here.
+	Deadline: 5 pm, March 23. The deadline is quite far away. But it would be best if you were doing the assignment as you're preparing for the midterm.
