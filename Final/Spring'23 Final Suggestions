@@ -1,0 +1,23 @@
+< Spring'23 Final Suggestions [MHB] >
+
+Here's the syllabus for the final exam.
+1.	Context-free languages and Context-free grammars (CFGs)
+2.	Derivation, Parse Tree, Ambiguity
+3.	Chomsky Normal Form
+4.	The CYK Algorithm
+5.	Pushdown Automata
+Resources: 
+1.	Last semester's recordings
+2.	Practice problems from buX and the textbook (both of them!)
+3.	The MIT playlist
+4.	This video Farhan made about pushdown automata
+Quiz Problems:
+1.	Quiz 3 (Section 5, Section 6, Section 7)
+2.	Quiz 4 (Section 5, Section 6, Section 7)
+Past Final Exam Questions: Here, here, and here.
+
+How to prepare:
+1.	Read pages 101-116 from Sipser. 
+2.	Read pages 303-307 from Hopcroft and Ullman.
+3.	There are practice problems at the end of chapter 2 of Sipser. You should do the ones labeled "Exercises" and not "Problems".
+4.	If you want additional problems, check out the practice sheets on buX (weeks 7-10). 
