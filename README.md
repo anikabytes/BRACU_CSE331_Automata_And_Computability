@@ -2,6 +2,6 @@
 <html>
   <body>
   This respository contains materials of CSE331 Spring'23 <br/>
-  Course Faculty : MHB 
+  Theory Faculty : MHB 
   </body>
 </html>
